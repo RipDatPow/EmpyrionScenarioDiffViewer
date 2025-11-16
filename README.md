@@ -1,5 +1,7 @@
 # Quick Start Guide -- Empyrion Scenario Diff Viewer
 
+![Screenshot](EmpyrionScenarioDiffViewer.png)
+
 **This app requires .NET 9.0 Core runtimes.**
 
 This guide will help you get the application running in minutes and
